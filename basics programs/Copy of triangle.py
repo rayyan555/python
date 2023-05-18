@@ -5,4 +5,3 @@ if(a+b>c)and(b+c>a)and(a+c>b):
     print("triangle is possible")
 else:
     print("triangle is not possible")
-
